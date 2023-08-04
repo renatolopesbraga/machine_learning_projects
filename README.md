@@ -1,1 +1,1 @@
-# machine_learning_projects
+Espaço para compartilhar projetos e estudos sobre Machine Learning
